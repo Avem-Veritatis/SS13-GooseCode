@@ -1,0 +1,8 @@
+C:\Users\Student\Google Drive\gangstaX\tools\AddToChangelog\AddToChangelog\bin\Debug\AddToChangelog.exe
+C:\Users\Student\Google Drive\gangstaX\tools\AddToChangelog\AddToChangelog\bin\Debug\AddToChangelog.pdb
+C:\Users\Student\Google Drive\gangstaX\tools\AddToChangelog\AddToChangelog\obj\x86\Debug\AddToChangelog.csprojResolveAssemblyReference.cache
+C:\Users\Student\Google Drive\gangstaX\tools\AddToChangelog\AddToChangelog\obj\x86\Debug\AddToChangelog.MainForm.resources
+C:\Users\Student\Google Drive\gangstaX\tools\AddToChangelog\AddToChangelog\obj\x86\Debug\AddToChangelog.Properties.Resources.resources
+C:\Users\Student\Google Drive\gangstaX\tools\AddToChangelog\AddToChangelog\obj\x86\Debug\AddToChangelog.csproj.GenerateResource.Cache
+C:\Users\Student\Google Drive\gangstaX\tools\AddToChangelog\AddToChangelog\obj\x86\Debug\AddToChangelog.exe
+C:\Users\Student\Google Drive\gangstaX\tools\AddToChangelog\AddToChangelog\obj\x86\Debug\AddToChangelog.pdb

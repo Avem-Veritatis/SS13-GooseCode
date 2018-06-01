@@ -1,0 +1,26 @@
+######################################################################
+# Basically, ckey goes first. Rank goes after the "-"                #
+# Case is not important for ckey.                                    #
+# Case IS important for the rank. However punctuation/spaces are not #
+# Ranks can be anything defined in admin_ranks.txt           ~Carn   #
+######################################################################
+
+Norc = Chaos God
+
+SteveMaybe = Chaos God
+
+CluckingTiger = Chaos God
+
+LordofGilneas = Acolyte
+
+Kelly Stark = Acolyte
+
+Dapperus = Lord of Change
+
+Gzor100 = Moderator
+
+Dalavi = Moderator
+
+Hivefleetchicken = Moderator
+
+Snow5445 = Acolyte

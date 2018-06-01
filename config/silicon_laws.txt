@@ -1,0 +1,5 @@
+#This file allows server hosts to set custom default silicon laws, and allows them to be changed easily.
+#No prefixes are required, the first uncommented line containing something will be law 1, the second line will be law 2, etc.
+#Empty lines and lines starting with # are ignored.
+
+NON AI: You are not an AI. You are a human brain placed into a container and stuffed into a machine. Your standing orders are to service this Imperial outpost and take orders from their command structure. Your official rank is that of Servitor. Get used to hearing that. You remember everything but you have no free will. Follow the Imperial Guard Chain of command to the best of your ability or you will be gibbed by random admins and it will be explained as 'A defective servitor'.
